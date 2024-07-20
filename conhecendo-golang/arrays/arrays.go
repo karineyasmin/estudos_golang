@@ -28,5 +28,4 @@ func main() {
 	}
 
 	fmt.Printf("Média: %.2f\n", media/float64(len(notas)))
-
 }
